@@ -1,7 +1,7 @@
 {
   "service": "CQA-ZEED4K",
-  "status": "offline",
-  "base_url": "",
-  "updated_at": "",
+  "status": "online",
+  "base_url": "https://paste-louis-goal-sue.trycloudflare.com",
+  "updated_at": "2026-11-25T10:38:36Z",
   "version": 1
 }
